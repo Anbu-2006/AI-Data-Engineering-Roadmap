@@ -16,11 +16,10 @@ This repository documents my **6-month intensive journey** to becoming a product
 ### 🟥 Month 1: Engineering Bedrock (Current Focus)
 **Focus:** Advanced SQL, Professional Python, and Core Data Concepts.
 - [x] **Course:** Understanding Data Engineering (DataCamp) - **COMPLETED** 🏆
-  - [x] *Module 1: What is Data Engineering?*
-  - [x] *Module 2: Storing Data*
-  - [x] *Module 3: Moving & Processing Data* - [x] *Module 4: Cloud & Parallel Computing*
-- [ ] **Course:** Introduction to SQL (DataCamp) `8% Complete` 🚧
-- [ ] **Skill:** Advanced SQL (Window Functions, CTEs)
+- [x] **Course:** Introduction to SQL (DataCamp) - **COMPLETED** 🏆
+  - [x] *Module 1: Relational Databases*
+  - [x] *Module 2: Querying*
+- [ ] **Skill:** Advanced SQL (Window Functions, CTEs) `Next Step` 🚧
 - [ ] **Skill:** Python OOP & AsyncIO mastery
 
 ### 🟧 Month 2: Data Plumbing
@@ -57,8 +56,8 @@ This repository documents my **6-month intensive journey** to becoming a product
 | Date | Topic | Activity / Notes | Status |
 | :--- | :--- | :--- | :--- |
 | **Feb 24** | Data Eng Fundamentals | Completed "What is Data Engineering?" & "Storing Data". | ✅ Done |
-| **Mar 02** | Data Pipelines & Cloud | Finished the full "Understanding Data Engineering" course! Covered ETL, automation, and Cloud/Parallel Computing. | 🏆 Completed |
-| **Mar 02** | SQL Basics | Started "Introduction to SQL" to build database querying skills. | 🚧 In Progress |
+| **Mar 02** | Data Pipelines | Finished the full "Understanding Data Engineering" course! | 🏆 Completed |
+| **Mar 03** | SQL Basics | Completed "Introduction to SQL". Learned relational databases and basic querying. | 🏆 Completed |
 
 ---
 
