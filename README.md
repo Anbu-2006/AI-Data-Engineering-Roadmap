@@ -13,14 +13,11 @@ This repository documents my **6-month intensive journey** to becoming a product
 
 ## 🗺️ The 6-Month Roadmap
 
-### 🟥 Month 1: Engineering Bedrock (Current Focus)
-**Focus:** Advanced SQL, Professional Python, and Core Data Concepts.
+### 🟥 Month 1: Engineering Bedrock (Status: 🚀 AHEAD OF SCHEDULE)
 - [x] **Course:** Understanding Data Engineering (DataCamp) - **COMPLETED** 🏆
 - [x] **Course:** Introduction to SQL (DataCamp) - **COMPLETED** 🏆
-  - [x] *Module 1: Relational Databases*
-  - [x] *Module 2: Querying*
-- [ ] **Skill:** Advanced SQL (Window Functions, CTEs) `Next Step` 🚧
-- [ ] **Skill:** Python OOP & AsyncIO mastery
+- [ ] **Course:** Intermediate SQL (DataCamp) `37% Complete` 🚧
+- [ ] **Next Skill:** Python OOP & AsyncIO (Month 1 Core Goal)
 
 ### 🟧 Month 2: Data Plumbing
 **Focus:** ETL Pipelines, Vector DBs, FastAPI.
