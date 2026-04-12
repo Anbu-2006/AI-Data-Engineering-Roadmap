@@ -3,37 +3,40 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20AI-blue)
 ![Timeline](https://img.shields.io/badge/Timeline-6%20Months-orange)
+![Progress](https://img.shields.io/badge/Progress-Month%204%20Complete-brightgreen)
 
 ## 📌 About This Repository
 This repository documents my **6-month intensive journey** to becoming a production-ready AI & Data Engineer. As a second-year student specializing in AI & Data Engineering, I am using this space to log my daily learning, code snippets, and projects.
 
 **Goal:** To bridge the gap between academic theory and real-world engineering by mastering **ETL Pipelines, Vector Databases, MLOps, and AI Agents**.
 
+> 🎉 **Latest Update:** Visuals have been refreshed and are now even more attractive! All roadmap content through **Month 4** is now complete, including all MLOps & Production items in Month 4 (Docker containerization and GitHub Actions CI/CD setup).
+
 ---
 
 ## 🗺️ The 6-Month Roadmap
 
-### 🟥 Month 1: Engineering Bedrock (Status: 🚀 AHEAD OF SCHEDULE)
+### 🟥 Month 1: Engineering Bedrock (Status: 🏆 COMPLETED)
 - [x] **Course:** Understanding Data Engineering (DataCamp) - **COMPLETED** 🏆
 - [x] **Course:** Introduction to SQL (DataCamp) - **COMPLETED** 🏆
-- [ ] **Course:** Intermediate SQL (DataCamp) `37% Complete` 🚧
-- [ ] **Next Skill:** Python OOP & AsyncIO (Month 1 Core Goal)
+- [x] **Course:** Intermediate SQL (DataCamp) - **COMPLETED** 🏆
+- [x] **Skill:** Python OOP & AsyncIO - **COMPLETED** 🏆
 
-### 🟧 Month 2: Data Plumbing
+### 🟧 Month 2: Data Plumbing (Status: 🏆 COMPLETED)
 **Focus:** ETL Pipelines, Vector DBs, FastAPI.
-- [ ] Build a robust ETL pipeline.
-- [ ] Learn Pinecone/Milvus.
-- [ ] Develop API endpoints with FastAPI.
+- [x] Build a robust ETL pipeline. - **COMPLETED** 🏆
+- [x] Learn Pinecone/Milvus. - **COMPLETED** 🏆
+- [x] Develop API endpoints with FastAPI. - **COMPLETED** 🏆
 
-### 🟨 Month 3: Intelligence
+### 🟨 Month 3: Intelligence (Status: 🏆 COMPLETED)
 **Focus:** AI Agents, RAG, Prompt Engineering.
-- [ ] Build AI Agents with LangGraph/CrewAI.
-- [ ] Implement RAG systems.
+- [x] Build AI Agents with LangGraph/CrewAI. - **COMPLETED** 🏆
+- [x] Implement RAG systems. - **COMPLETED** 🏆
 
-### 🟩 Month 4: MLOps & Production
+### 🟩 Month 4: MLOps & Production (Status: 🏆 COMPLETED)
 **Focus:** Docker, CI/CD, Cloud Basics.
-- [ ] Containerize apps with Docker.
-- [ ] Set up GitHub Actions workflows.
+- [x] Containerize apps with Docker. - **COMPLETED** 🏆
+- [x] Set up GitHub Actions workflows. - **COMPLETED** 🏆
 
 ### 🟦 Month 5: Unique Showcase
 **Focus:** High-quality demos & Personal Branding.
