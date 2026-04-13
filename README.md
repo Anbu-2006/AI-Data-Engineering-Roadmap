@@ -21,7 +21,7 @@ This repository documents my **6-month intensive journey** to becoming a product
 - [x] **Month 4 (MLOps & Production):** **Containerized applications with Docker.** 🐳
 
 ### 🟩 Month 4: MLOps & Production (CURRENT)
-- [ ] Set up CI/CD workflows with GitHub Actions.
+- [x] Set up CI/CD workflows with GitHub Actions.
 - [ ] Implement monitoring for AI model latency and data drift.
 - [ ] Basics of Cloud Deployment (AWS/Azure).
 
