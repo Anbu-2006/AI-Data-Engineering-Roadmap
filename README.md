@@ -1,68 +1,61 @@
 # 🚀 AI & Data Engineering Internship Quest
 
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Ahead%20of%20Schedule-success)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20AI-blue)
 ![Timeline](https://img.shields.io/badge/Timeline-6%20Months-orange)
+![Progress](https://img.shields.io/badge/Progress-Month%204%20Complete-brightgreen)
 
 ## 📌 About This Repository
-This repository documents my **6-month intensive journey** to becoming a production-ready AI & Data Engineer. As a second-year student specializing in AI & Data Engineering, I am using this space to log my daily learning, code snippets, and projects.
+This repository documents my **6-month intensive journey** to becoming a production-ready AI & Data Engineer. As a second-year student specializing in AI & Data Engineering, I am using this space to log my daily learning, code snippets, and projects including **Aegis** and **Axiom Digital**.
 
-**Goal:** To bridge the gap between academic theory and real-world engineering by mastering **ETL Pipelines, Vector Databases, MLOps, and AI Agents**.
+**Goal:** Bridge the gap between theory and production by mastering **ETL, Vector DBs, MLOps, and Agentic Workflows**.
 
 ---
 
 ## 🗺️ The 6-Month Roadmap
 
-### 🟥 Month 1: Engineering Bedrock (Status: 🚀 AHEAD OF SCHEDULE)
-- [x] **Course:** Understanding Data Engineering (DataCamp) - **COMPLETED** 🏆
-- [x] **Course:** Introduction to SQL (DataCamp) - **COMPLETED** 🏆
-- [ ] **Course:** Intermediate SQL (DataCamp) `37% Complete` 🚧
-- [ ] **Next Skill:** Python OOP & AsyncIO (Month 1 Core Goal)
+### ✅ Completed Milestones (Months 1 - 4)
+- [x] **Engineering Bedrock:** SQL (Intro & Intermediate), Python OOP, and AsyncIO.
+- [x] **Data Plumbing:** Built robust ETL pipelines and integrated Vector Databases (Pinecone/Milvus).
+- [x] **Intelligence:** Implemented RAG systems and AI Agents using LangGraph/CrewAI.
+- [x] **MLOps & Production:** Mastered **Docker** for containerization and environment consistency.
 
-### 🟧 Month 2: Data Plumbing
-**Focus:** ETL Pipelines, Vector DBs, FastAPI.
-- [ ] Build a robust ETL pipeline.
-- [ ] Learn Pinecone/Milvus.
-- [ ] Develop API endpoints with FastAPI.
+### 🟧 Month 4: Finishing Touches on Production (CURRENT)
+- [x] Containerize apps with Docker.
+- [ ] **Next:** Set up automated CI/CD pipelines with GitHub Actions.
+- [ ] **Next:** Deploy a microservice to a Cloud Provider (AWS/GCP).
 
-### 🟨 Month 3: Intelligence
-**Focus:** AI Agents, RAG, Prompt Engineering.
-- [ ] Build AI Agents with LangGraph/CrewAI.
-- [ ] Implement RAG systems.
-
-### 🟩 Month 4: MLOps & Production
-**Focus:** Docker, CI/CD, Cloud Basics.
-- [ ] Containerize apps with Docker.
-- [ ] Set up GitHub Actions workflows.
-
-### 🟦 Month 5: Unique Showcase
-**Focus:** High-quality demos & Personal Branding.
-- [ ] Create 60-second technical breakdown videos.
-- [ ] Optimize LinkedIn profile.
+### 🟦 Month 5: Unique Showcase & Branding
+**Focus:** High-quality demos & Professional Identity.
+- [ ] Launch **Axiom Digital** portfolio showcasing the intersection of Web Dev & AI.
+- [ ] Create 60-second technical breakdowns of the **Aegis** security architecture.
+- [ ] Finalize LinkedIn optimization for AI Engineering roles.
 
 ### 🟪 Month 6: Strategic Attack
 **Focus:** Outreach & Interview Prep.
-- [ ] Cold outreach to Engineering Leads.
-- [ ] LeetCode & DataLemur grind.
+- [ ] Cold outreach to Engineering Leads at target tech firms.
+- [ ] Advanced Data Engineering interview prep (DataLemur & System Design).
 
 ---
 
 ## 📝 Daily Log & Updates
 
-### 📅 February & March 2026
+### 📅 April 2026
 | Date | Topic | Activity / Notes | Status |
 | :--- | :--- | :--- | :--- |
-| **Feb 24** | Data Eng Fundamentals | Completed "What is Data Engineering?" & "Storing Data". | ✅ Done |
-| **Mar 02** | Data Pipelines | Finished the full "Understanding Data Engineering" course! | 🏆 Completed |
-| **Mar 03** | SQL Basics | Completed "Introduction to SQL". Learned relational databases and basic querying. | 🏆 Completed |
+| **Apr 05** | Agentic AI | Refined intent analysis models for the **Aegis** platform. | ✅ Done |
+| **Apr 10** | Containerization | Successfully Dockerized the **Healer** app backend and ETL scripts. | ✅ Done |
+| **Apr 13** | Infrastructure | Moving into GitHub Actions for automated testing. | 🚀 Active |
 
 ---
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-*(More to be added as I progress: Docker, FastAPI, Pinecone, LangChain)*
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector--DB-FF4B4B?style=for-the-badge)
 
 ---
 
